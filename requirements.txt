@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+PyPDF2
+python-docx
+openai
+faiss-cpu
+python-dotenv
+fastapi-jwt-auth
