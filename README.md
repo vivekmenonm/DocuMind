@@ -1,6 +1,6 @@
 # 🔐 DocuMind – Secure Retrieval-Augmented Generation API
 
-RAGGuard is a secure, user-isolated Retrieval-Augmented Generation (RAG) system built with **FastAPI**, **FAISS**, and **OpenAI**. It allows authenticated users to upload documents, build vector indexes (FAISS), and ask natural language questions using OpenAI's GPT models – all protected with **JWT authentication**.
+DocuMind is a secure, user-isolated Retrieval-Augmented Generation (RAG) system built with **FastAPI**, **FAISS**, and **OpenAI**. It allows authenticated users to upload documents, build vector indexes (FAISS), and ask natural language questions using OpenAI's GPT models – all protected with **JWT authentication**.
 
 ## 🚀 Features
 
